@@ -1,0 +1,23 @@
+{
+  "name": "servernode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranMaster08/myFirstServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranMaster08/myFirstServer/issues"
+  },
+  "homepage": "https://github.com/FranMaster08/myFirstServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
